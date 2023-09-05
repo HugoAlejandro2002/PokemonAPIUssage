@@ -1,0 +1,136 @@
+{
+  "pokemons": [
+    {
+      "name": "venusaur",
+      "type": "grass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "id": 1
+    },
+    {
+      "name": "paras",
+      "type": "bug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+      "id": 2
+    },
+    {
+      "name": "venusaur",
+      "type": "grass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "id": 3
+    },
+    {
+      "name": "alakazam",
+      "type": "psychic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+      "id": 4
+    },
+    {
+      "name": "nidoran-f",
+      "type": "poison",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+      "id": 5
+    },
+    {
+      "name": "farfetchd",
+      "type": "normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+      "id": 6
+    },
+    {
+      "name": "seaking",
+      "type": "water",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+      "id": 7
+    },
+    {
+      "name": "cubone",
+      "type": "ground",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+      "id": 8
+    },
+    {
+      "name": "primeape",
+      "type": "fighting",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+      "id": 9
+    },
+    {
+      "name": "onix",
+      "type": "rock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+      "id": 10
+    },
+    {
+      "name": "mewtwo",
+      "type": "psychic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+      "id": 11
+    },
+    {
+      "name": "cubone",
+      "type": "ground",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+      "id": 12
+    },
+    {
+      "name": "aerodactyl",
+      "type": "rock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+      "id": 13
+    },
+    {
+      "name": "magneton",
+      "type": "electric",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+      "id": 14
+    },
+    {
+      "name": "psyduck",
+      "type": "water",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+      "id": 15
+    },
+    {
+      "name": "meowth",
+      "type": "normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+      "id": 16
+    },
+    {
+      "name": "fearow",
+      "type": "normal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+      "id": 17
+    },
+    {
+      "name": "pinsir",
+      "type": "bug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+      "id": 18
+    },
+    {
+      "name": "ivysaur",
+      "type": "grass",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "id": 19
+    },
+    {
+      "name": "seaking",
+      "type": "water",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+      "id": 20
+    },
+    {
+      "name": "kabuto",
+      "type": "rock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+      "id": 21
+    },
+    {
+      "name": "ninetales",
+      "type": "fire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+      "id": 22
+    }
+  ]
+}
